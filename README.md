@@ -1,5 +1,5 @@
 # my-linux-cheatsheet
-cheat sheet of linux; commands; problems and solutions/workarounds.
+cheat sheet of Linux; commands; problems and solutions/workarounds.
 
 `please report any error/wrong doing`
 - like grammar issues;  false/misleading info(which happen a lot by the way; 1 solution might seem perfect and one use it; and it crashes) etc
